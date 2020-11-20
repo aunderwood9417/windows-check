@@ -1,2 +1,2 @@
-# windows-check
+# Flatman's Windows Checklist
 joe
